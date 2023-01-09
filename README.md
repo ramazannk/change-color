@@ -4,6 +4,9 @@ change-color and working with array!
 
 
 
+
+
+
 const button = document.querySelector('.button'),
       wind = document.querySelector('.allWind'),
       output = document.querySelector('.output');
